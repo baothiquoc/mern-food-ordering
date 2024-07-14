@@ -2,6 +2,8 @@
 
 A full-stack food ordering application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
+### Demo: https://youtu.be/7YezMvqI0_g
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
